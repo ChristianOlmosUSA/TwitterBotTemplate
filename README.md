@@ -2,6 +2,7 @@
 Python/Tweepy: Twitter Bot REPLY Template: receivedtweets = api.mentions_timeline
 
 You might need to: pip install tweepy
+
 Any Python 3x should work
 
 I aim to make 50 bots which response to questions, so the reply() function does the actual reply, then Fav, then retweet
