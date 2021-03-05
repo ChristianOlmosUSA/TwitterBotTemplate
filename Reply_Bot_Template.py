@@ -4,7 +4,7 @@ import datetime
 #
 ##### SET NAME OF DATABASE FILES ###
 FILE_NAME = 'last_seen.txt'  ### This is the file that stores the ID no of the most recently recieved tweet
-### BOT SPECIFIC KEYS ### Twitter APP ID: 20197476
+### BOT SPECIFIC KEYS ### Twitter APP ID: xxxxxxxx
 consumer_key = 'xxx'  # API key
 consumer_secret = 'xxX'  # API key secret
 key =  'xxx' # Access Token
